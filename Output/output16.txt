@@ -1,0 +1,1 @@
+5 dan katta ismlar:['Dilnoza', 'Kamron', 'Bekzod', 'Alisher', 'Bunyod']
