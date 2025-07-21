@@ -1,0 +1,1 @@
+urtacha ball: 4.2 baldan baland olgan talabalar va ballari: ['Malika - 5', 'Nigora - 5']
